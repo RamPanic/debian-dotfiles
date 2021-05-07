@@ -102,7 +102,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 
-export TEMPROJECT="/home/kirari/Desktop/Personal/Programacion/Python/Programas/Tools/Honeypots/medium-interaction/Lucrecia"
-
 neofetch
 
