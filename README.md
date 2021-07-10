@@ -1,4 +1,4 @@
-# My dotfiles for UnixPorn
+# My Debian Dotfiles for UnixPorn
 
 Acá encontrarás las configuraciones que uso para mis sistemas Linux :D
 
